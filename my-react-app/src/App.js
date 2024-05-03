@@ -13,8 +13,6 @@ function App() {
       {name}
       <User name="setareh" age={20} email="samane@zarini.com" />
       <User name="mona" age={25} email="mona@golii.com" />
-      <User name="ali" age={30} email="ali@monfared.com" />
-
       <Job salery={100000000} position="web developer" compony="google" />
     </div>
   );
